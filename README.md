@@ -1,2 +1,2 @@
 # irrigationProject
- remotely project using to help farmers 
+ remotely used project aiming to help farmers 
